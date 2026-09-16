@@ -1,3 +1,4 @@
+// @vitest-environment jsdom
 import { useState, type FormEvent } from 'react';
 import { submitApplication } from '../services/mockApi';
 
